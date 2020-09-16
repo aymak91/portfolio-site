@@ -2054,10 +2054,10 @@ input, select, textarea {
 			border: solid 2px #fff;
 			display: inline-block;
 			font-size: 1.35em;
-			height: calc(3em + 2px);
-			line-height: 3em;
+			height: calc(4em + 2px);
+			line-height: 4em;
 			text-align: center;
-			width: calc(3em + 2px);
+			width: calc(4em + 2px);
 		}
 
 			.icon.major:before {
@@ -3685,14 +3685,14 @@ input, select, textarea {
 
 		#banner:after {
 			pointer-events: none;
-			-moz-transition: opacity 3s ease-in-out;
-			-webkit-transition: opacity 3s ease-in-out;
-			-ms-transition: opacity 3s ease-in-out;
-			transition: opacity 3s ease-in-out;
-			-moz-transition-delay: 1.25s;
-			-webkit-transition-delay: 1.25s;
-			-ms-transition-delay: 1.25s;
-			transition-delay: 1.25s;
+			-moz-transition: opacity 2s ease-in-out;
+			-webkit-transition: opacity 2s ease-in-out;
+			-ms-transition: opacity 2s ease-in-out;
+			transition: opacity 2s ease-in-out;
+			-moz-transition-delay: 1s;
+			-webkit-transition-delay: 1s;
+			-ms-transition-delay: 1s;
+			transition-delay: 1s;
 			content: '';
 			background: #2e3842;
 			display: block;
