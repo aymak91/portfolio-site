@@ -1775,7 +1775,7 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin: 0 0 3.5em 0;
+		margin: 0 0 0.5em 0;
 	}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -2555,13 +2555,13 @@ input, select, textarea {
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+			padding: 2em;
 			display: block;
 			position: relative;
-			text-align: left;
-			width: 50%;
+			text-align: center;
+			width: 20%;
 		}
-
+/* 
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
 			}
@@ -2600,7 +2600,7 @@ input, select, textarea {
 
 			.features li:nth-child(10) {
 				background-color: rgba(0, 0, 0, 0.35);
-			}
+			} */
 
 			.features li:before {
 				display: block;
@@ -2817,8 +2817,12 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #942e21;
 			color: #c8ece9;
+			width: 75%;
+			margin: 50px;
+			margin-left: 400px;
+			border-radius: 10px;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2980,8 +2984,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #b17300;
 			color: #d3d4e4;
+			width: 70%;
+			margin: 50px;
+			border-radius: 10px;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
