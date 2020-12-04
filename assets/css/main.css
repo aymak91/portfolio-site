@@ -1791,9 +1791,9 @@ input, select, textarea {
 
 img.image {
 	border-radius: 10px;
-	display: inline-block;
-	max-height: 250px;
-	max-width: 250px;
+	display: flex;
+	max-height: 12rem;
+	max-width: 12rem;
 	height: auto;
 	width: auto;
 	margin: 20px;
