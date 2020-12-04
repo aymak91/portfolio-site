@@ -1797,12 +1797,14 @@ img.image {
 	height: auto;
 	width: auto;
 	margin: 20px;
+	justify-items: center;
 }
 
-#intro > p {
+/* .about-me {
 	display: flex;
-	justify-self: center;
-}
+	justify-items: center;
+	flex-direction: column;
+} */
 
 /* .span.image.main {
 	display: flex;
