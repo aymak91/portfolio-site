@@ -1907,3 +1907,7 @@ ul {
 	border-radius: 10px;
 	box-shadow: 5px 5px 10px gray;
 }
+
+.logo span {
+	margin-top: 1rem;
+}
