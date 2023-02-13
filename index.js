@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
   slides[0].style.display = "block";
   document.getElementById("current-slide-info").innerHTML = `
     <div>
-      <h2>pokecord</h2></ br>
+      <h2>pokecord [1/5]</h2></ br>
       <center><h3>
         <a href="https://pokecord-ruby.vercel.app" target="_blank">
           <i class="fas fa-external-link-alt"></i>
