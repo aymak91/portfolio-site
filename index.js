@@ -1,34 +1,34 @@
 const projectNames = {
   1: {
-    name: "pokecord",
+    name: "pokecord [1/5]",
     live: "https://pokecord-ruby.vercel.app",
     repo: "https://github.com/aymak91/pokecord",
     technologies: "React, Redux, Firebase, Google Authentication, Tailwind CSS, HTML",
     description: "Discord clone with a Pokemon aesthetic!"
   },
   2: {
-    name: "Pathfinder",
+    name: "Pathfinder [2/5]",
     live: "https://aymak91.github.io/pathfinding_visualizer/",
     repo: "https://github.com/aymak91/pathfinding_visualizer",
     technologies: "Javascript, HTML, CSS",
     description: "Interactive pathfinding visualization using the breadth-first search graph traversal algorithm."
   },
   3: {
-    name: "woofblr",
+    name: "woofblr [3/5]",
     live: "https://woofblr.herokuapp.com/#/",
     repo: "https://github.com/aymak91/woofblr",
     technologies: "React, Redux, Ruby on Rails, Postgres, AWS S3, HTML, CSS",
     description: "Woof! woofblr is a full-stack web-application clone of Tumblr, except for dogs! Users can create various types of posts such as text and images. A dashboard displays content posted by other users that a user follows."
   },
   4: {
-    name: "BoneMeatsKibble",
+    name: "BoneMeatsKibble [4/5]",
     live: "https://bone-meats-kibble.herokuapp.com",
     repo: "https://github.com/aymak91/bone-meats-kibble",
     technologies: "Javascript, React, Node.js, Express, MongoDB, AWS S3, HTML, CSS",
     description: "BoneMeatsKibble is a MERN stack project where you can add profiles for your beloved canines and find matches for them. Find a pal for your pup, or perhaps something more!"
   },
   5: {
-    name: "Hungry Wolf",
+    name: "Hungry Wolf [5/5]",
     live: "https://aymak91.github.io/hungry-wolf",
     repo: "https://github.com/aymak91/hungry-wolf",
     technologies: "Javascript, Canvas, HTML, CSS",
