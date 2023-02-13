@@ -73,6 +73,10 @@ input, select, textarea {
 }
 
 /* Basic */
+	.prof-img-container {
+		display: flex;
+		justify-content: center;
+	}
 
 	@-ms-viewport {
 		width: device-width;

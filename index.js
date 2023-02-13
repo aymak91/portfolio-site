@@ -1,19 +1,33 @@
 const projectNames = {
   1: {
+    name: "pokecord",
+    live: "https://pokecord-ruby.vercel.app",
+    repo: "https://github.com/aymak91/pokecord",
+    technologies: "React, Redux, Firebase, Google Authentication, Tailwind CSS, HTML",
+    description: "Discord clone with a Pokemon aesthetic!"
+  },
+  2: {
+    name: "Pathfinder",
+    live: "https://aymak91.github.io/pathfinding_visualizer/",
+    repo: "https://github.com/aymak91/pathfinding_visualizer",
+    technologies: "Javascript, HTML, CSS",
+    description: "Interactive pathfinding visualization using the breadth-first search graph traversal algorithm."
+  },
+  3: {
     name: "woofblr",
     live: "https://woofblr.herokuapp.com/#/",
     repo: "https://github.com/aymak91/woofblr",
-    technologies: "React, Redux, Ruby on Rails, Postgres, AWS S3, AJAX, JBuilder, HTML, CSS",
+    technologies: "React, Redux, Ruby on Rails, Postgres, AWS S3, HTML, CSS",
     description: "Woof! woofblr is a full-stack web-application clone of Tumblr, except for dogs! Users can create various types of posts such as text and images. A dashboard displays content posted by other users that a user follows."
   },
-  2: {
+  4: {
     name: "BoneMeatsKibble",
     live: "https://bone-meats-kibble.herokuapp.com",
     repo: "https://github.com/aymak91/bone-meats-kibble",
-    technologies: "Javascript, React, Node.js, Express, MongoDB, AWS S3, HTML",
+    technologies: "Javascript, React, Node.js, Express, MongoDB, AWS S3, HTML, CSS",
     description: "BoneMeatsKibble is a MERN stack project where you can add profiles for your beloved canines and find matches for them. Find a pal for your pup, or perhaps something more!"
   },
-  3: {
+  5: {
     name: "Hungry Wolf",
     live: "https://aymak91.github.io/hungry-wolf",
     repo: "https://github.com/aymak91/hungry-wolf",
@@ -27,12 +41,12 @@ document.addEventListener("DOMContentLoaded", () => {
   slides[0].style.display = "block";
   document.getElementById("current-slide-info").innerHTML = `
     <div>
-      <h2>woofblr</h2></ br>
+      <h2>pokecord</h2></ br>
       <center><h3>
-        <a href="https://woofblr.herokuapp.com/#/" target="_blank">
+        <a href="https://pokecord-ruby.vercel.app" target="_blank">
           <i class="fas fa-external-link-alt"></i>
         </a>
-        <a href="https://github.com/aymak91/woofblr" target="_blank">
+        <a href="https://github.com/aymak91/pokecord" target="_blank">
           <i class="fab fa-github"></i>
         </a>
       </h3></center>
